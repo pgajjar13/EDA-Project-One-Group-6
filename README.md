@@ -13,4 +13,5 @@ Data Visualization: To visualize the data I used bar charts for immigrants, non-
 .
 
 The most significant age group was 15 years and older, more specifically the 25 to 65 group. Most of the numbers coming out of the Toronto region 
+I did an analysis on the Ottawa region as well and found out that the age groups remain the same as in Toronto. 
 

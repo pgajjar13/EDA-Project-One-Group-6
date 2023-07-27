@@ -20,5 +20,36 @@ The analysis will involve examining the data at provincial levels. The geographi
 
 1. Which regions have the highest number of immigrants, non-immigrants, and non-permanent residents? ( Jihye)
 2. Among which age groups are immigrants, non-immigrants, and non-permanent residents most prevalent? ( Sanjeev)
-3. Which gender constitutes a larger proportion of immigrants, non-immigrants, and non-permanent residents? (Priyanshi)
+
+
+# Priyanshi 
+
+**Which gender constitutes a larger and lowest proportion of immigrants, non-immigrants, and non-permanent residents in Ontrio, Canada?**
+
+- My research focused on analyzing the gender distribution among immigrants, non-immigrants, and non-permanent residents in different regions of Ontario. To accomplish this, I accessed demographic data from reliable sources, such as government statistics and census data.
+
+Here is a step-by-step guide detailing the process of the analysis:
+
+1. Data Collection:
+I examined official data sources that provided information on the population, immigration, and non-permanent residents in Ontario regions, primarily relying on the Canadian government's website and Statistics Canada. I obtained data on the gender distribution within each of these population categories in various regions of Ontario.
+
+2. Data Preparation:
+I carefully cleaned the data to remove any inconsistencies that could potentially affect the analysis. Subsequently, I organized the data in a structured format, making it easier to read and generate visualizations.
+
+3. Data Analysis:
+I first calculated the proportion of males and females in each category (immigrants, non-immigrants, non-permanent residents). Additionally, I compared the gender distribution across different categories to identify any significant variations.
+
+4. Data Visualization:
+To provide a clear and visual representation, I chose to use a Pie-chart for visualizing the gender distribution among immigrants, a Line graph for non-immigrants, and a Bar chart for non-permanent residents.
+
+5. Interpretation and Analysis of Results:
+After cleaning and analyzing the data from various perspectives and data frames, I successfully identified the top and bottom three provinces for male immigrants, non-immigrants, and non-permanent residents, as well as for female immigrants, non-immigrants, and non-permanent residents.
+
+6. Toronto emerged as the predominant province for both men and women in all three categories, followed by Ottawa and Hamilton.
+Conversely, Hawkesbury was the least explored province for both men and women in all three categories, with Kenora and Pembroke being the subsequent least represented provinces.
+
+7. Investigation of Factors:
+The next step in the research is to explore potential factors contributing to the observed variations. Factors such as economic opportunities, family reunification, education, and job markets might play a role in attracting different genders to specific regions.
+
+
 4. In which year did immigrants, non-immigrants, and non-permanent residents reach their highest numbers? ( Sughra)
